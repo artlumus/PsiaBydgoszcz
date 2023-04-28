@@ -1,0 +1,31 @@
+/* for 768px */
+
+.flex_row_container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+
+.all_contacts {
+    width: 100%;
+    padding: 20px;
+}
+
+header h1{
+    font-size: 38px;
+}
+
+.place{
+    padding: 40px 20px;
+}
+
+
+.animation{
+    padding: 30px 30px;
+}
+
+.animation img{
+    height: 492px;
+    object-fit: cover;
+}

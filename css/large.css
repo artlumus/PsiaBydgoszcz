@@ -1,0 +1,22 @@
+/* for 1200px */
+
+header h1{
+    font-size: 45px;
+}
+
+
+
+.contact{
+    max-width: 1100px;
+    margin:5px auto;
+}
+
+.animation img{
+    max-width: 1100px;
+    height: 600px;
+    margin: 0 auto;
+}
+
+iframe{
+    max-width:1100px;
+}
